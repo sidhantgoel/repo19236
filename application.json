@@ -3,6 +3,10 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Public.users",
+      "isDefault": false
     }
   ],
   "viewMode": false,
